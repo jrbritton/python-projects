@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------------
 # Name:        time format
-# Purpose:     Takes a time in seconds and makes it readaable
-#              (UNFINISHED)
+# Purpose:     Takes a time in seconds and makes it readable
+#
 #
 # Author:      jrbritt
 #
@@ -43,4 +43,4 @@ def format_duration(seconds):
         print(f'{hours} hour {minutes} minutes and {seconds} seconds')
 
 
-format_duration(121)
+format_duration(123)
